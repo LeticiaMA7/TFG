@@ -1,8 +1,4 @@
-"_id_transferencias","class","data. 
-co2","data. 
-humidity","data. 
-room_temp","data. 
-surf_temp","hub","node","time"
+"_id_transferencias","class","data.co2","data.humidity","data.room_temp","data.surf_temp","hub","node","time"
 "6360ee4d3736f2c2b990c906","4405","472","38.29","25.29","","000FF001","65799","2022-11-01T11:00:45.775838"
 "6360ee8f3736f2c2b990c907","4405","","14.00","21.70","19.45","000FF001","131333","2022-11-01T11:01:51.758841"
 "6360eeaa3736f2c2b990c908","4405","","48.00","20.50","17.83","000FF001","65793","2022-11-01T11:02:18.445269"
